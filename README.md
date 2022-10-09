@@ -1,2 +1,2 @@
 # Deliverables
-Repo con le 5 consegne
+Repo that contains all 5 deliverables.
